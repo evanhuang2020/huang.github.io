@@ -1,14 +1,6 @@
 [huang Blog](https://178243522.xyz)
 ================================
 
-
-Other Resources
----------------
-
-Ports
-- [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog) by @kaijun
-- [**React-SSR**](https://github.com/LucasIcarus/huxpro.github.io/tree/ssr) by @LucasIcarus
-
 [Starter/Boilerplate](https://github.com/huxpro/huxblog-boilerplate)
 - Out of date. Helps wanted for updating it on par with the main repo
 
